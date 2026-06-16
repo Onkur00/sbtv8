@@ -1,3 +1,5 @@
+
+
 /**
  * Channel Playlist for Category: SPORTS
  */
@@ -5,61 +7,78 @@
 import { RawChannelData } from '../../types.ts';
 
 export const sportsChannels: RawChannelData[] = [
+
+
+
   {
-    "tvgId": "TSportsHD",
-    "tvgName": "T Sports HD",
-    "tvgLogo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
+    "tvgId": "world-cups",
+    "tvgName": "world-cup",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
     "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
   },
   {
+    "tvgId": "TSportsHD",
+    "tvgName": "T Sports HD",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
+    "groupTitle": "Sports",
+    "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+  },
+  {
     "tvgId": "PTVSports",
     "tvgName": "PTV Sports",
-    "tvgLogo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=523d21a9aeaeb0243c2e159a59282853"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
   },
   {
     "tvgId": "Asports",
     "tvgName": "A sports",
-    "tvgLogo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
+    "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1927f7e219f74e24ce8eaf969bb69c4"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
   },
   {
-    "tvgId": "SonySportsTen3HD",
-    "tvgName": "Sony Sports Ten 3 HD",
-    "tvgLogo": "",
+    "tvgId": "WillowTV",
+    "tvgName": "Willow TV",
+    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
     "groupTitle": "Sports",
-    "url": "http://103.99.249.139/sonyten3/index.m3u8"
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
+  },
+   {
+    "tvgId": "TSN1",
+    "tvgName": "TSN 1",
+    "tvgLogo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
+    "groupTitle": "Sports",
+    "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd1379bd5a06e924f838673eea9233d6"
   },
   {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
+    "tvgId": "TSN2",
+    "tvgName": "TSN 2",
+    "tvgLogo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
     "groupTitle": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+    "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e413c74c9e8dcdd4007fc9a8a6ace265"
   },
   {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
+    "tvgId": "DDSports",
+    "tvgName": "DD Sports",
+    "tvgLogo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
     "groupTitle": "Sports",
-    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
+    "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
   },
   {
-    "tvgId": "WillowExtraLive",
-    "tvgName": "Willow Extra Live",
-    "tvgLogo": "",
+    "tvgId": "WOF1",
+    "tvgName": "WOF 1",
+    "tvgLogo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
     "groupTitle": "Sports",
-    "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
   },
   {
-    "tvgId": "MotorVision",
-    "tvgName": "Motor Vision",
-    "tvgLogo": "",
+    "tvgId": "MoreThenSportsTV",
+    "tvgName": "More Then Sports TV",
+    "tvgLogo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
     "groupTitle": "Sports",
-    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
   },
   {
     "tvgId": "205000",
@@ -89,6 +108,13 @@ export const sportsChannels: RawChannelData[] = [
     "groupTitle": "Sports",
     "url": "https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8"
   },
+   {
+    "tvgId": "KTVSportPlus",
+    "tvgName": "KTV Sport Plus",
+    "tvgLogo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
+    "groupTitle": "Sports",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+  },
   {
     "tvgId": "244000",
     "tvgName": "Crazy Ex",
@@ -97,46 +123,11 @@ export const sportsChannels: RawChannelData[] = [
     "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
   },
   {
-    "tvgId": "WillowTV",
-    "tvgName": "Willow TV",
-    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
-    "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
-  },
-  {
     "tvgId": "MarqueeSportsNetwork",
     "tvgName": "Marquee Sports Network",
     "tvgLogo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
     "groupTitle": "Sports",
     "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6ddc114ed6d2bdb29ea67a0012839d22"
-  },
-  {
-    "tvgId": "TSN1",
-    "tvgName": "TSN 1",
-    "tvgLogo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
-    "groupTitle": "Sports",
-    "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd1379bd5a06e924f838673eea9233d6"
-  },
-  {
-    "tvgId": "TSN2",
-    "tvgName": "TSN 2",
-    "tvgLogo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
-    "groupTitle": "Sports",
-    "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e413c74c9e8dcdd4007fc9a8a6ace265"
-  },
-  {
-    "tvgId": "DDSports",
-    "tvgName": "DD Sports",
-    "tvgLogo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
-    "groupTitle": "Sports",
-    "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
-  },
-  {
-    "tvgId": "WOF1",
-    "tvgName": "WOF 1",
-    "tvgLogo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
-    "groupTitle": "Sports",
-    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
   },
   {
     "tvgId": "TLCHD",
@@ -188,13 +179,6 @@ export const sportsChannels: RawChannelData[] = [
     "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=58cc3c937ee5ea38c55442771f6ed7d9"
   },
   {
-    "tvgId": "KTVSportPlus",
-    "tvgName": "KTV Sport Plus",
-    "tvgLogo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
-    "groupTitle": "Sports",
-    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
-  },
-  {
     "tvgId": "SportsFirstTV",
     "tvgName": "Sports First TV",
     "tvgLogo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
@@ -207,13 +191,6 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
     "groupTitle": "Sports",
     "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4f9e438a9282b6c08786fb69650e6a77"
-  },
-  {
-    "tvgId": "MoreThenSportsTV",
-    "tvgName": "More Then Sports TV",
-    "tvgLogo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
-    "groupTitle": "Sports",
-    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
   },
   {
     "tvgId": "SportsFishingTV",
@@ -244,13 +221,6 @@ export const sportsChannels: RawChannelData[] = [
     "url": "https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8"
   },
   {
-    "tvgId": "SportsRange",
-    "tvgName": "Sports Range",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8"
-  },
-  {
     "tvgId": "CricketGold",
     "tvgName": "Cricket Gold",
     "tvgLogo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
@@ -263,5 +233,19 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
     "groupTitle": "Sports",
     "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
-  }
-];
+  },
+  {
+    "tvgId": "StarSports1HD",
+    "tvgName": "Star Sports 1 HD",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+  },
+  {
+    "tvgId": "MotorVision",
+    "tvgName": "Motor Vision",
+    "tvgLogo": "",
+    "groupTitle": "Sports",
+    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+  },
+ ];
