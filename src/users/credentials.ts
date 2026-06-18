@@ -5501,7 +5501,7 @@ export const userCredentials: UserCredential[] = [
   },
   {
     "username": "sb913",
-    "password": "",
+    "password": "1650",
     "deviceLimit": 5,
     "displayName": "sb913"
   },
