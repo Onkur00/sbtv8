@@ -29,7 +29,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "PTV Sports",
     "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "http://198.195.239.50:8095/unt-s/video.m3u8"
+    "url": "https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8"
   },
   {
     "tvgId": "Asports",
