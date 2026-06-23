@@ -15,7 +15,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "world-cup",
     "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+    "url": "https://ua102.online24.pm:8443/1101/video.m3u8?token=350B326FB34F4B8"
   },
   {
     "tvgId": "TSportsHD",
@@ -43,7 +43,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "Willow TV",
     "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
     "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
+    "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
   },
    {
     "tvgId": "TSN1",
