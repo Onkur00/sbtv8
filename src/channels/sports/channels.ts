@@ -15,7 +15,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "world-cup",
     "tvgLogo": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-13T180321.773-2026-05-1169af7dfcdd146c0b3dbaf00cd4b175-1019x573.png",
     "groupTitle": "Sports",
-    "url": "https://ua102.online24.pm:8443/1101/video.m3u8?token=350B326FB34F4B8"
+    "url": "http://84.17.50.102/fox/index.m3u8"
   },
   {
     "tvgId": "TSportsHD",
